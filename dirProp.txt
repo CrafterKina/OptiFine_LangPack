@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/CrafterKina/OptiFine_LangPack/master/ja_JP.lang>assets\minecraft\lang\ja_JP.lang
-https://raw.githubusercontent.com/CrafterKina/OptiFine_LangPack/master/en_US.lang>assets\minecraft\lang\en_US.lang
+https://raw.githubusercontent.com/CrafterKina/OptiFine_LangPack/master/ja_JP.lang>assets/minecraft/lang/ja_JP.lang
+https://raw.githubusercontent.com/CrafterKina/OptiFine_LangPack/master/en_US.lang>assets/minecraft/lang/en_US.lang
 https://raw.githubusercontent.com/CrafterKina/OptiFine_LangPack/master/pack.mcmeta>pack.mcmeta
 https://raw.githubusercontent.com/CrafterKina/OptiFine_LangPack/master/pack.png>pack.png
