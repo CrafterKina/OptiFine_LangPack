@@ -80,3 +80,5 @@ optifine.translucent_blocks=半透明のブロックの設定
 optifine.framerate_limit_fine=パフォーマンス
 optifine.all_on=全てオン
 optifine.all_off=全てオフ
+optifine.firework_particles=花火の粒子
+optifine.vignette=視界端の影
