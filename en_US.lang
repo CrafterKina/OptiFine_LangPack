@@ -80,3 +80,5 @@ optifine.translucent_blocks=Translucent Blocks
 optifine.framerate_limit_fine=Performance
 optifine.all_on=All On
 optifine.all_off=All Off
+optifine.firework_particles=Firework Particles
+optifine.vignette=Vignette
